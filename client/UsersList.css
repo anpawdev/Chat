@@ -10,7 +10,8 @@
 .UsersOnline {
     padding: 20px;
     text-align: center;
-    background: #ccc;
+    background: #605F7D;
+    color: #fff;
 }
 
 .UsersList {
